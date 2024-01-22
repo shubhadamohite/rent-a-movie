@@ -1,0 +1,19 @@
+{
+  "name": "movie-rent",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "preact": "^10.19.3",
+    "react-icons": "^4.12.0"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.7.0",
+    "vite": "^5.0.8"
+  }
+}
